@@ -101,7 +101,7 @@ const Footer = () => {
             <div className="flex items-center space-x-2">
               <span className="text-gray-400 text-sm mr-4">Connect with us:</span>
               <a
-                href="https://linkedin.com/company/mutexcorp"
+                href="https://linkedin.com/company/MutexSoftSolutions"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="p-2 text-gray-400 hover:text-white hover:bg-white/10 rounded-full transition-all"
@@ -109,7 +109,7 @@ const Footer = () => {
                 <Linkedin className="h-5 w-5" />
               </a>
               <a
-                href="https://twitter.com/mutexcorp"
+                href="https://twitter.com/MutexSoftSolutions"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="p-2 text-gray-400 hover:text-white hover:bg-white/10 rounded-full transition-all"
@@ -117,7 +117,7 @@ const Footer = () => {
                 <Twitter className="h-5 w-5" />
               </a>
               <a
-                href="https://facebook.com/mutexcorp"
+                href="https://facebook.com/MutexSoftSolutions"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="p-2 text-gray-400 hover:text-white hover:bg-white/10 rounded-full transition-all"

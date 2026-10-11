@@ -77,7 +77,7 @@ const ContactSection = () => {
             </h3>
             <div className="flex space-x-3 mb-8">
               <a
-                href="https://linkedin.com/company/mutexcorp"
+                href="https://linkedin.com/company/MutexSoftSolutions"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="p-3 bg-[#1e5aa8] text-white rounded-full hover:bg-[#164785] transition-colors"
@@ -85,7 +85,7 @@ const ContactSection = () => {
                 <Linkedin className="h-5 w-5" />
               </a>
               <a
-                href="https://twitter.com/mutexcorp"
+                href="https://twitter.com/MutexSoftSolutions"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="p-3 bg-[#1e5aa8] text-white rounded-full hover:bg-[#164785] transition-colors"
@@ -93,7 +93,7 @@ const ContactSection = () => {
                 <Twitter className="h-5 w-5" />
               </a>
               <a
-                href="https://facebook.com/mutexcorp"
+                href="https://facebook.com/MutexSoftSolutions"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="p-3 bg-[#1e5aa8] text-white rounded-full hover:bg-[#164785] transition-colors"

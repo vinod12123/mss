@@ -1,7 +1,7 @@
 // Mock data for Mutex Corp website
 
 export const companyInfo = {
-  name: "Mutex Corp",
+  name: "Mutex Soft Solutions",
   tagline: "Your Global Technology Partner for Transformative Digital Solutions",
   description: "Mutex Corp is a trusted digital transformation solutions company that leverages AI to bring about digital business transformation for its clients.",
   // address: "3333 Preston Rd, STE 300, Frisco, TX 75034",
@@ -393,7 +393,7 @@ export const footerLinks = {
 };
 
 export const socialLinks = [
-  { name: "LinkedIn", href: "https://linkedin.com/company/mutexcorp", icon: "Linkedin" },
-  { name: "Twitter", href: "https://twitter.com/mutexcorp", icon: "Twitter" },
-  { name: "Facebook", href: "https://facebook.com/mutexcorp", icon: "Facebook" }
+  { name: "LinkedIn", href: "https://linkedin.com/company/MutexSoftSolutions", icon: "Linkedin" },
+  { name: "Twitter", href: "https://twitter.com/MutexSoftSolutions", icon: "Twitter" },
+  { name: "Facebook", href: "https://facebook.com/MutexSoftSolutions", icon: "Facebook" }
 ];
