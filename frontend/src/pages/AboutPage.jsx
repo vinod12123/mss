@@ -41,7 +41,7 @@ const AboutPage = () => {
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative">
             <div className="text-center">
               <h1 className="text-4xl md:text-5xl font-bold text-white mb-6">
-                About Mutex Corp
+                About Mutex Soft Solutions
               </h1>
               <p className="text-xl text-gray-300 max-w-3xl mx-auto">
                 Your global technology partner for transformative digital solutions.
@@ -58,7 +58,7 @@ const AboutPage = () => {
               <div>
                 <h2 className="text-3xl font-bold text-[#1e5aa8] mb-6">Who We Are</h2>
                 <p className="text-gray-600 mb-4 leading-relaxed">
-                  Headquartered in {companyInfo.address}, Mutex Corp is a result-driven IT
+                  Headquartered in {companyInfo.address}, Mutex Soft Solutions is a result-driven IT
                   consulting company providing digital transformation and reinvention strategies
                   and services for businesses of all sizes.
                 </p>
@@ -83,7 +83,7 @@ const AboutPage = () => {
               <div className="relative">
                 <img
                   src="https://images.unsplash.com/photo-1557425507-57dd2cafc241?w=600&h=500&fit=crop"
-                  alt="About Mutex Corp"
+                  alt="About Mutex Soft Solutions"
                   className="rounded-2xl shadow-xl"
                 />
               </div>

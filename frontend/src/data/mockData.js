@@ -3,7 +3,7 @@
 export const companyInfo = {
   name: "Mutex Soft Solutions",
   tagline: "Your Global Technology Partner for Transformative Digital Solutions",
-  description: "Mutex Corp is a trusted digital transformation solutions company that leverages AI to bring about digital business transformation for its clients.",
+  description: "Mutex Soft Solutions is a trusted digital transformation solutions company that leverages AI to bring about digital business transformation for its clients.",
   // address: "3333 Preston Rd, STE 300, Frisco, TX 75034",
   //  address: "7700 preston rd, STE#402, Frisco, TX 75034",
   address: "KRN Complex, Kadapa Tirupati Road, Rajampet, AP, India - 516115",
@@ -346,7 +346,7 @@ export const testimonials = [
     id: 1,
     name: "Sarah Johnson",
     role: "CTO, TechVenture Inc.",
-    text: "Mutex Corp transformed our data infrastructure completely. Their AI solutions have given us insights we never thought possible.",
+    text: "Mutex Soft Solutions transformed our data infrastructure completely. Their AI solutions have given us insights we never thought possible.",
     avatar: "SJ"
   },
   {

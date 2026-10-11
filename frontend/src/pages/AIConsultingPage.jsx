@@ -108,7 +108,7 @@ const AIConsultingPage = () => {
             <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
               <div>
                 <h2 className="text-3xl font-bold text-[#1e5aa8] mb-6">
-                  Why Choose Mutex Corp for AI?
+                  Why Choose Mutex Soft Solutions for AI?
                 </h2>
                 <div className="space-y-4">
                   {[
